@@ -1,0 +1,21 @@
+# LangChain core
+langchain==0.1.20
+langchain-groq==0.1.5
+langchain-community==0.0.38
+
+# Web UI
+streamlit==1.50.0
+python-dotenv==1.0.0
+
+# Vector DB
+chromadb==0.4.15
+faiss-cpu==1.7.4
+
+# Document loaders
+pypdf==3.17.1
+python-docx==1.1.0
+
+# Embeddings & Models
+sentence-transformers==2.2.2
+transformers>=4.30.0
+torch>=2.0.0

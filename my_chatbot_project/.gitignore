@@ -1,0 +1,21 @@
+# Môi trường ảo
+.venv/
+venv/
+env/
+
+# File cấu hình nhạy cảm
+.env
+
+# File Python tạm thời
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File cục bộ hoặc tạm thời
+*.log
+.DS_Store
+*.sqlite3
+
+# File cấu hình môi trường ảo
+pyvenv.cfg
